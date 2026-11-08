@@ -1,9 +1,4 @@
 # Kino - Cinema Ticketing Web Application
-
-> "Thanks for this amazing project, It was a great experience! I never knew I would ever even think of writing Javascript, yet here I am..."
-
----
-
 ## Overview & Architecture
 
 **Kino** is a modern **Single-Page Application (SPA)** built for browsing movies, managing user sessions, selecting cinema seats, and securing ticket bookings. 
